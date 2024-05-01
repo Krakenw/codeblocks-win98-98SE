@@ -8,5 +8,4 @@ Codeblocks 1.0-RC2  would not remember more than 1 user added compiler when comp
 CB 1.0RC2 (wx264).7z is compiled with wxWidgets 2.6.4 and now remembers more that 1 added compiler.
 
 
-Codeblocks 8.02 win32 ansi when compiled with wxWidgets 2.8.7 would keep crashing when running on windows 98SE on a real hardware pc.  codeblocks-8.02-win32-ansi-wx2812  is compiled with wxWidgets 2.8.12 and so far has not crashed
-on my PC.
+Codeblocks 8.02 win32 ansi when compiled with wxWidgets 2.8.7 would keep crashing when running on windows 98SE on a real hardware pc.  codeblocks-8.02-win32-ansi-wx2812  is compiled with wxWidgets 2.8.12 and so far has not crashed on my PC.
